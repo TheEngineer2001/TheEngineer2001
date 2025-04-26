@@ -1,16 +1,45 @@
-## Hi there 👋
+# Salli! 👋
 
-<!--
-**TheEngineer2001/TheEngineer2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
 
-Here are some ideas to get you started:
+I'm an independent IT entrepreneur and passionate developer with a strong focus on complex systems, applied science, and advanced software engineering.  
+I specialize in working with high-level technology in the fields of AI, data science, cloud infrastructure, and distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Programming Languages
+
+🔹 C++ (Primary Language)  
+🔹 Python (Primary Language)  
+🔹 Various other complex and low-level languages
+
+---
+
+## 🌐 Languages
+
+🇩🇪 German (native)  
+🇫🇷 French (native)  
+🇬🇧 English (native)
+
+---
+
+## 📜 Certifications
+
+✅ IBM Certified AI Practitioner  
+✅ IBM Data Science Professional Certificate  
+✅ IBM Machine Learning Specialist  
+✅ Cisco Certified DevNet Associate  
+✅ Microsoft Certified: Azure Fundamentals (AZ-900)  
+✅ Microsoft Certified: Azure Administrator Associate  
+✅ Microsoft Certified: Azure AI Engineer Associate  
+✅ Microsoft Certified: Azure Data Scientist Associate  
+✅ Microsoft Certified: DevOps Engineer Expert  
+✅ Additional high-level certifications in AI development, data infrastructure, and scalable backend systems
+
+---
+
+<details>
+<summary>📚 Fun Fact</summary>
+
+Badischer code is built to last — and run faster 😄
+</details>
