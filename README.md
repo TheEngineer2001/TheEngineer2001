@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 
-I'm an independent IT entrepreneur and passionate developer with a strong focus on complex systems, applied science, and advanced software engineering.  
+I'm an passionate developer with a strong focus on complex systems, applied science, and advanced software engineering.  
 I specialize in working with high-level technology in the fields of AI, data science, cloud infrastructure, and distributed systems.
 
 ---
